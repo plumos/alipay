@@ -1,4 +1,4 @@
-module github.com/plumos/alipay/v3
+module github.com/plumos/alipay/v4
 
 require github.com/plumos/crypto4go v1.0.3
 
