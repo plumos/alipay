@@ -9,7 +9,7 @@ import (
 	"encoding/hex"
 	"encoding/json"
 	"errors"
-	"github.com/smartwalle/crypto4go"
+	"github.com/plumos/crypto4go"
 	"io"
 	"io/ioutil"
 	"math"

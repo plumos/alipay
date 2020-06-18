@@ -27,14 +27,14 @@ import github.com/plumos/alipay
 
 在集成的过程中有遇到问题，欢迎加 QQ 群 564704807 讨论，或者使用微信扫描下方的二维码。
 
-![smartwalle](http://smartwalle.tk/smartwalle.jpeg)
+![plumos](http://plumos.tk/plumos.jpeg)
 
 
 ## 其它支付
 
-微信支付 [https://github.com/smartwalle/wxpay](https://github.com/smartwalle/wxpay)
+微信支付 [https://github.com/plumos/wxpay](https://github.com/plumos/wxpay)
 
-PayPal [https://github.com/smartwalle/paypal](https://github.com/smartwalle/paypal)
+PayPal [https://github.com/plumos/paypal](https://github.com/plumos/paypal)
 
 
 ## 关于各分支（版本)
