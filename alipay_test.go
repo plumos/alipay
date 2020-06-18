@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	alipay "github.com/plumos/alipay/v3"
+	alipay "github.com/plumos/alipay"
 )
 
 var (

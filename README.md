@@ -5,11 +5,11 @@ AliPay SDK for Golang
 ##### 启用 Go module
 
 ```
-go get github.com/plumos/alipay/v3
+go get github.com/plumos/alipay
 ```
 
 ```
-import github.com/plumos/alipay/v3
+import github.com/plumos/alipay
 ```
 
 ##### 未启用 Go module

@@ -3,7 +3,7 @@ package alipay_test
 import (
 	"testing"
 
-	alipay "github.com/plumos/alipay/v3"
+	alipay "github.com/plumos/alipay"
 )
 
 func TestClient_AgreementQuery(t *testing.T) {
